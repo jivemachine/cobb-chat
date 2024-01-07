@@ -1,6 +1,4 @@
-# cobb-chat
-
-### **A fun little messaging app**
+# **A fun little messaging app**
 **backend**
 
 - node.js 
@@ -13,7 +11,9 @@
 
 Then add boilerplate code from this [blog](https://blog.chatengine.io/fullstack-chat/nodejs-reactjs)
 - copy and paste their index.js code 
-'''
+
+
+```
 const express = require("express");
 const cors = require("cors");
 const axios = require("axios);
@@ -28,7 +28,7 @@ app.post("/authenticate", async (req, res) => {
 });
 
 app.listen(3001);
-'''
+```
 
 
 
