@@ -33,5 +33,5 @@ app.listen(3001);
 
 
 
-[^1]: In the backend folder 'npm i express cors axios'
-[^2]: In backend folder 'npm i --save-dev nodemon'
+[^1]: In the backend folder ```npm i express cors axios```
+[^2]: In backend folder ```npm i --save-dev nodemon```
